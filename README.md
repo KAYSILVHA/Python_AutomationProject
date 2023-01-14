@@ -20,5 +20,6 @@ Caso queira usar, favor se atentar!
 
 PRECAUÇÕES:
 - Modificar a base de dados
+- Modificar o caminho do arquivo
 - Modificar as considerações
 - Se quiser, mudar o tipo de gráficos
