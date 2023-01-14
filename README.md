@@ -13,4 +13,12 @@ PRECAUÇÕES:
 - Alterar os pontos(valores) dos clicks
 
 
-#
+# Tratamento de dados:
+Trata os dados de uma tabela e faz gráficos de acordo com a base de dados.
+Nesse caso, estamos investigando o porquê dos clientes estarem abandonando os serviços.
+Caso queira usar, favor se atentar!
+
+PRECAUÇÕES:
+- Modificar a base de dados
+- Modificar as considerações
+- Se quiser, mudar o tipo de gráficos
